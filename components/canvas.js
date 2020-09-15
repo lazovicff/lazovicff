@@ -127,7 +127,7 @@ const Canvas = () => {
 		const model = createModel();
 		const res = await trainModel(model, data);
 		console.log(res.history);
-		await model.save('downloads://mnist-model');
+		// await model.save('downloads://mnist-model');
 	};
 
 	return (
