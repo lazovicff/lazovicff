@@ -1,10 +1,11 @@
 const Index = () => (
 	<div>
+		<h3>filip.im</h3>
 		<div>
-			<a href="/presentation.pdf">presentation</a>
+			<a target="_blank" href="https://angel.co/u/filip-lazovic">angel_list</a>
 		</div>
 		<div>
-			<a href="/zavrsni_rad.pdf">zavrsni_rad</a>
+			<a href="mailto:lazoviccorp@gmail.co">mail</a>
 		</div>
 		<div>
 			<a href="/thesis.pdf">thesis</a>
